@@ -1,0 +1,800 @@
+C:\Users\t00192059\Desktop\FoneFixSYS\FoneFixSYS\bin\Debug\FoneFixSYS.exe.config
+C:\Users\t00192059\Desktop\FoneFixSYS\FoneFixSYS\bin\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\FoneFixSYS\FoneFixSYS\bin\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\FoneFixSYS\FoneFixSYS\obj\Debug\FoneFixSYS.csprojResolveAssemblyReference.cache
+C:\Users\t00192059\Desktop\FoneFixSYS\FoneFixSYS\obj\Debug\FoneFixSYS.Properties.Resources.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.GenerateResource.Cache
+C:\Users\t00192059\Desktop\FoneFixSYS\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00192059\Desktop\FoneFixSYS\FoneFixSYS\obj\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\FoneFixSYS\FoneFixSYS\obj\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\FoneFixSYS\FoneFixSYS\obj\Debug\FoneFixSYS.UpdateCustomers.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\FoneFixSYS\obj\Debug\FoneFixSYS.MainMenu.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\FoneFixSYS\obj\Debug\FoneFixSYS.ManageCustomersMenu.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\FoneFixSYS\obj\Debug\FoneFixSYS.ManageStock.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\FoneFixSYS\obj\Debug\FoneFixSYS.Process_Repairs.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\FoneFixSYS\obj\Debug\FoneFixSYS.Carry_Out_Administration.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\FoneFixSYS\obj\Debug\FoneFixSYS.UpdateName.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\FoneFixSYS\obj\Debug\FoneFixSYS.CustDelete.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\FoneFixSYS\obj\Debug\FoneFixSYS.NewStock.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\FoneFixSYS\obj\Debug\FoneFixSYS.StockUpdateID.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\FoneFixSYS\obj\Debug\FoneFixSYS.UpdateStock.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\FoneFixSYS\obj\Debug\FoneFixSYS.deleteRepair.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\FoneFixSYS\obj\Debug\FoneFixSYS.EnquiryID.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\FoneFixSYS\obj\Debug\FoneFixSYS.Issuenvoice.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\FoneFixSYS\obj\Debug\FoneFixSYS.LogRepair.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\FoneFixSYS\obj\Debug\FoneFixSYS.RecievePayment.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\FoneFixSYS\obj\Debug\FoneFixSYS.RecievePaymentID.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\FoneFixSYS\obj\Debug\FoneFixSYS.ReplenishStockform.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\FoneFixSYS\obj\Debug\FoneFixSYS.ReplenishStockIDForm.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\FoneFixSYS\obj\Debug\FoneFixSYS.StockEnquiry.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\FoneFixSYS\obj\Debug\FoneFixSYS.frmAddCustomer.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\FoneFixSYS\obj\Debug\FoneFixSYS.frmCompleteRepair.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\bin\Debug\FoneFixSYS.exe.config
+C:\Users\t00192059\Desktop\FoneFixSYS\bin\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\FoneFixSYS\bin\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\FoneFixSYS\obj\Debug\FoneFixSYS.csprojResolveAssemblyReference.cache
+C:\Users\t00192059\Desktop\FoneFixSYS\obj\Debug\FoneFixSYS.frmAddCustomer.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\obj\Debug\FoneFixSYS.Carry_Out_Administration.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\obj\Debug\FoneFixSYS.frmCompleteRepair.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustDelete.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\obj\Debug\FoneFixSYS.frmDeleteRepair.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\obj\Debug\FoneFixSYS.EnquiryID.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\obj\Debug\FoneFixSYS.frmIssuenvoice.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\obj\Debug\FoneFixSYS.frmLogRepair.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\obj\Debug\FoneFixSYS.MainMenu.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\obj\Debug\FoneFixSYS.ManageCustomersMenu.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\obj\Debug\FoneFixSYS.ManageStock.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\obj\Debug\FoneFixSYS.frmNewStock.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\obj\Debug\FoneFixSYS.Process_Repairs.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePayment.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePaymentID.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\obj\Debug\FoneFixSYS.ReplenishStockform.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\obj\Debug\FoneFixSYS.frmReplenishStockIDForm.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockEnquiry.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockUpdateID.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\obj\Debug\FoneFixSYS.UpdateCustomers.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\obj\Debug\FoneFixSYS.Properties.Resources.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\obj\Debug\FoneFixSYS.frmUpdateName.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\obj\Debug\FoneFixSYS.frmUpdateStock.resources
+C:\Users\t00192059\Desktop\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.GenerateResource.Cache
+C:\Users\t00192059\Desktop\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00192059\Desktop\FoneFixSYS\obj\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\FoneFixSYS\obj\Debug\FoneFixSYS.pdb
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csprojResolveAssemblyReference.cache
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Carry_Out_Administration.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.EnquiryID.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.MainMenu.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageCustomersMenu.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageStock.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Process_Repairs.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePayment.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePaymentID.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ReplenishStockform.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.UpdateCustomers.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Properties.Resources.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.GenerateResource.Cache
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.CoreCompileInputs.cache
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.exe
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.pdb
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.exe.config
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.exe
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.exe.config
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csprojResolveAssemblyReference.cache
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Carry_Out_Administration.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.EnquiryID.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.MainMenu.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageCustomersMenu.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageStock.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Process_Repairs.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePayment.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePaymentID.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ReplenishStockform.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.UpdateCustomers.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Properties.Resources.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.GenerateResource.Cache
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm1AddCustomer.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm9CompleteRepair.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm3DeRegisterCustomer.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm8CancelRepair.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm11Issuenvoice.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm7LogRepair.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm4NewStock.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm91ReplenishStockID.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm6StockEnquiry.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm5UpdateStockID.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm2UpdateCustomerID.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm5UpdateStock.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm2UpdateCustomerSelect.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm3DeRegisterCustomerSelect.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm5UpdateStockSelect.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm6StockEnquirySelect.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm8CancelRepairSelect.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm9CompleteRepairSelect.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm11IssueInvoiceID.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm12RecievePayment.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm12RecievePaymentID.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm13StockAnalysisDates.resources
+C:\Users\t00192059\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm13StockAnalysis.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm11IssueInvoiceID.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm12RecievePayment.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm12RecievePaymentID.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm13StockAnalysis.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm13StockAnalysisDates.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm14RepairAnalysis.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm1AddCustomer.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm2UpdateCustomerSelect.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm3DeRegisterCustomerSelect.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm5UpdateStockSelect.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm6StockEnquirySelect.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm8CancelRepairSelect.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm9CompleteRepairSelect.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm9CompleteRepair.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm3DeRegisterCustomer.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm8CancelRepair.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm11Issuenvoice.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm7LogRepair.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm4NewStock.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm91ReplenishStockID.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm6StockEnquiry.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm5UpdateStockID.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm2UpdateCustomerID.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm5UpdateStock.resources
+C:\Users\jteah\Desktop\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm14RepairAnalysisResult.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csprojResolveAssemblyReference.cache
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm11IssueInvoiceID.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm12RecievePayment.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm12RecievePaymentID.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm13StockAnalysis.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm13StockAnalysisDates.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm14RepairAnalysis.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm14RepairAnalysisResult.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm1AddCustomer.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm2UpdateCustomerSelect.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm3DeRegisterCustomerSelect.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm5UpdateStockSelect.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm6StockEnquirySelect.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm8CancelRepairSelect.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm9CompleteRepairSelect.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Carry_Out_Administration.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm9CompleteRepair.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm3DeRegisterCustomer.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm8CancelRepair.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.EnquiryID.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm11Issuenvoice.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm7LogRepair.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.MainMenu.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageCustomersMenu.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageStock.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockNew.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Process_Repairs.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePayment.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePaymentID.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ReplenishStockform.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm91ReplenishStockID.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm6StockEnquiry.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm5UpdateStockID.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.UpdateCustomers.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Properties.Resources.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm2UpdateCustomerID.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm5UpdateStock.resources
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.GenerateResource.Cache
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.exe.config
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.dll
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.xml
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csprojResolveAssemblyReference.cache
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm11IssueInvoiceID.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm12RecievePaymentID.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm13StockAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm13StockAnalysisDates.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm14RepairAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm2UpdateCustomerSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm3DeRegisterCustomerSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm6StockEnquirySelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm8CancelRepairSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm9CompleteRepairSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Carry_Out_Administration.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.EnquiryID.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.MainMenu.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageCustomersMenu.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageStock.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockNew.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Process_Repairs.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePayment.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePaymentID.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ReplenishStockform.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm91ReplenishStockID.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.UpdateCustomers.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Properties.Resources.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm2UpdateCustomerID.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.GenerateResource.Cache
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerAdd.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerDeregister.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockUpdate.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairComplete.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairCancel.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairLog.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockEnquirys.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOAIssueInvoice.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOARecievePayment.resources
+C:\Users\t00192059\Desktop\SE PROJECT\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOARepairAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.exe.config
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.dll
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.xml
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csprojResolveAssemblyReference.cache
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm11IssueInvoiceID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOARecievePayment.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm12RecievePaymentID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm13StockAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm13StockAnalysisDates.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm14RepairAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOARepairAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerAdd.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm2UpdateCustomerSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm3DeRegisterCustomerSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm8CancelRepairSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm9CompleteRepairSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Carry_Out_Administration.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairComplete.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerDeregister.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairCancel.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOAIssueInvoice.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairLog.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.MainMenu.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageCustomersMenu.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageStock.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockNew.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Process_Repairs.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePayment.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePaymentID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ReplenishStockform.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm91ReplenishStockID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockEnquirys.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.UpdateCustomers.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Properties.Resources.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm2UpdateCustomerID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockUpdate.resources
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.GenerateResource.Cache
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\SE PROJECT 1\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.exe.config
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.dll
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.xml
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csprojResolveAssemblyReference.cache
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm11IssueInvoiceID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOARecievePayment.resources
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm12RecievePaymentID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm13StockAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm13StockAnalysisDates.resources
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm14RepairAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOARepairAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerAdd.resources
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm2UpdateCustomerSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm3DeRegisterCustomerSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm8CancelRepairSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm9CompleteRepairSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Carry_Out_Administration.resources
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairComplete.resources
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerDeregister.resources
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairCancel.resources
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOAIssueInvoice.resources
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairLog.resources
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.MainMenu.resources
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageCustomersMenu.resources
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageStock.resources
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockNew.resources
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Process_Repairs.resources
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePayment.resources
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePaymentID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ReplenishStockform.resources
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm91ReplenishStockID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockEnquirys.resources
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.UpdateCustomers.resources
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Properties.Resources.resources
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm2UpdateCustomerID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockUpdate.resources
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.GenerateResource.Cache
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\SE PROJECT 2\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.exe.config
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.dll
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.xml
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csprojResolveAssemblyReference.cache
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm11IssueInvoiceID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOARecievePayment.resources
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm12RecievePaymentID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm13StockAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm13StockAnalysisDates.resources
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm14RepairAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOARepairAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerAdd.resources
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm2UpdateCustomerSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm3DeRegisterCustomerSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm8CancelRepairSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm9CompleteRepairSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Carry_Out_Administration.resources
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairComplete.resources
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerDeregister.resources
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairCancel.resources
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOAIssueInvoice.resources
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairLog.resources
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.MainMenu.resources
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageCustomersMenu.resources
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageStock.resources
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockNew.resources
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Process_Repairs.resources
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePayment.resources
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePaymentID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ReplenishStockform.resources
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm91ReplenishStockID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockEnquirys.resources
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.UpdateCustomers.resources
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Properties.Resources.resources
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm2UpdateCustomerID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockUpdate.resources
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.GenerateResource.Cache
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\SE PROJECT 3\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.exe.config
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.dll
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.xml
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csprojResolveAssemblyReference.cache
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm11IssueInvoiceID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOARecievePayment.resources
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm12RecievePaymentID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm13StockAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm13StockAnalysisDates.resources
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm14RepairAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOARepairAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerAdd.resources
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm3DeRegisterCustomerSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm8CancelRepairSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm9CompleteRepairSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Carry_Out_Administration.resources
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairComplete.resources
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerDeregister.resources
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairCancel.resources
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOAIssueInvoice.resources
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairLog.resources
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.MainMenu.resources
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageCustomersMenu.resources
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageStock.resources
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockNew.resources
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Process_Repairs.resources
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePayment.resources
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePaymentID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ReplenishStockform.resources
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm91ReplenishStockID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockEnquirys.resources
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Properties.Resources.resources
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockUpdate.resources
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.GenerateResource.Cache
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\SE PROJECT 4\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerUpdate.resources
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.exe.config
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.dll
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.xml
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csprojResolveAssemblyReference.cache
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm11IssueInvoiceID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOARecievePayment.resources
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm12RecievePaymentID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm13StockAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm13StockAnalysisDates.resources
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm14RepairAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOARepairAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerAdd.resources
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm3DeRegisterCustomerSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm8CancelRepairSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm9CompleteRepairSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Carry_Out_Administration.resources
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairComplete.resources
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerDeregister.resources
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairCancel.resources
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOAIssueInvoice.resources
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairLog.resources
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.MainMenu.resources
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageCustomersMenu.resources
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageStock.resources
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockNew.resources
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Process_Repairs.resources
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePayment.resources
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePaymentID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ReplenishStockform.resources
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm91ReplenishStockID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockEnquirys.resources
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerUpdate.resources
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Properties.Resources.resources
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockUpdate.resources
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.GenerateResource.Cache
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\SE PROJECT 5\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.exe.config
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.dll
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.xml
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csprojResolveAssemblyReference.cache
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm11IssueInvoiceID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOARecievePayment.resources
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm12RecievePaymentID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm13StockAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm13StockAnalysisDates.resources
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm14RepairAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOARepairAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerAdd.resources
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm3DeRegisterCustomerSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm8CancelRepairSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm9CompleteRepairSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Carry_Out_Administration.resources
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairComplete.resources
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerDeregister.resources
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairCancel.resources
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOAIssueInvoice.resources
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairLog.resources
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.MainMenu.resources
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageCustomersMenu.resources
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageStock.resources
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockNew.resources
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Process_Repairs.resources
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePayment.resources
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePaymentID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ReplenishStockform.resources
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm91ReplenishStockID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockEnquirys.resources
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerUpdate.resources
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Properties.Resources.resources
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockUpdate.resources
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.GenerateResource.Cache
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\SE PROJECT 6\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.exe.config
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.dll
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.xml
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csprojResolveAssemblyReference.cache
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm11IssueInvoiceID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOARecievePayment.resources
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm12RecievePaymentID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm13StockAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm13StockAnalysisDates.resources
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm14RepairAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOARepairAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerAdd.resources
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm3DeRegisterCustomerSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm8CancelRepairSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm9CompleteRepairSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Carry_Out_Administration.resources
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairComplete.resources
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerDeregister.resources
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairCancel.resources
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOAIssueInvoice.resources
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairLog.resources
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.MainMenu.resources
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageCustomersMenu.resources
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageStock.resources
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockNew.resources
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Process_Repairs.resources
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePayment.resources
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePaymentID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ReplenishStockform.resources
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm91ReplenishStockID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockEnquirys.resources
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerUpdate.resources
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Properties.Resources.resources
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockUpdate.resources
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.GenerateResource.Cache
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\SE PROJECT 7\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.exe.config
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.dll
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.xml
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csprojResolveAssemblyReference.cache
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm11IssueInvoiceID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOARecievePayment.resources
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm12RecievePaymentID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm13StockAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm13StockAnalysisDates.resources
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm14RepairAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOARepairAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerAdd.resources
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm3DeRegisterCustomerSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm8CancelRepairSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm9CompleteRepairSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Carry_Out_Administration.resources
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairComplete.resources
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerDeregister.resources
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairCancel.resources
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOAIssueInvoice.resources
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairLog.resources
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.MainMenu.resources
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageCustomersMenu.resources
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageStock.resources
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockNew.resources
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Process_Repairs.resources
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePayment.resources
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePaymentID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ReplenishStockform.resources
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm91ReplenishStockID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockEnquirys.resources
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerUpdate.resources
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Properties.Resources.resources
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockUpdate.resources
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.GenerateResource.Cache
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\SE PROJECT 8\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.exe.config
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.dll
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.xml
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csprojResolveAssemblyReference.cache
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm11IssueInvoiceID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOARecievePayment.resources
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm12RecievePaymentID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm14RepairAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOARepairAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerAdd.resources
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm3DeRegisterCustomerSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm8CancelRepairSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm9CompleteRepairSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Carry_Out_Administration.resources
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairComplete.resources
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerDeregister.resources
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairCancel.resources
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOAIssueInvoice.resources
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairLog.resources
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.MainMenu.resources
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageCustomersMenu.resources
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageStock.resources
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockNew.resources
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Process_Repairs.resources
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePayment.resources
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePaymentID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ReplenishStockform.resources
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm91ReplenishStockID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockEnquirys.resources
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerUpdate.resources
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Properties.Resources.resources
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockUpdate.resources
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.GenerateResource.Cache
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\SE PROJECT 9\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOAStockAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.exe.config
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.dll
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.xml
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csprojResolveAssemblyReference.cache
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm11IssueInvoiceID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOARecievePayment.resources
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm12RecievePaymentID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm14RepairAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOARepairAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOAStockAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerAdd.resources
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm3DeRegisterCustomerSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm8CancelRepairSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm9CompleteRepairSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Carry_Out_Administration.resources
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairComplete.resources
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerDeregister.resources
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairCancel.resources
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOAIssueInvoice.resources
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairLog.resources
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.MainMenu.resources
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageCustomersMenu.resources
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageStock.resources
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockNew.resources
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Process_Repairs.resources
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePayment.resources
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePaymentID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ReplenishStockform.resources
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm91ReplenishStockID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockEnquirys.resources
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerUpdate.resources
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Properties.Resources.resources
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockUpdate.resources
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.GenerateResource.Cache
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\SE PROJECT 10\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.exe.config
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.dll
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.xml
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csprojResolveAssemblyReference.cache
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm11IssueInvoiceID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOARecievePayment.resources
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm12RecievePaymentID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm14RepairAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOARepairAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOAStockAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerAdd.resources
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm3DeRegisterCustomerSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm8CancelRepairSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm9CompleteRepairSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Carry_Out_Administration.resources
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairComplete.resources
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerDeregister.resources
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairCancel.resources
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOAIssueInvoice.resources
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairLog.resources
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.MainMenu.resources
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageCustomersMenu.resources
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageStock.resources
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockNew.resources
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Process_Repairs.resources
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePayment.resources
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePaymentID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ReplenishStockform.resources
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm91ReplenishStockID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockEnquirys.resources
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerUpdate.resources
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Properties.Resources.resources
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockUpdate.resources
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.GenerateResource.Cache
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\SE PROJECT 11\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.exe.config
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.dll
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.xml
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csprojResolveAssemblyReference.cache
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm11IssueInvoiceID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOARecievePayment.resources
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm12RecievePaymentID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm14RepairAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOARepairAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOAStockAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerAdd.resources
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm3DeRegisterCustomerSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm8CancelRepairSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm9CompleteRepairSelect.resources
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Carry_Out_Administration.resources
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairComplete.resources
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerDeregister.resources
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairCancel.resources
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOAIssueInvoice.resources
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairLog.resources
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.MainMenu.resources
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageCustomersMenu.resources
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageStock.resources
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockNew.resources
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Process_Repairs.resources
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePayment.resources
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRecievePaymentID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ReplenishStockform.resources
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frm91ReplenishStockID.resources
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockEnquirys.resources
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerUpdate.resources
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Properties.Resources.resources
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockUpdate.resources
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.GenerateResource.Cache
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\SE PROJECT 12\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.exe.config
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.dll
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.xml
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csprojResolveAssemblyReference.cache
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOARecievePayment.resources
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerAdd.resources
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairComplete.resources
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerDeregister.resources
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairCancel.resources
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOAIssueInvoice.resources
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmRepairLog.resources
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageCustomersMenu.resources
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.ManageStock.resources
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockNew.resources
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Process_Repairs.resources
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockEnquirys.resources
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCustomerUpdate.resources
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.Properties.Resources.resources
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmStockUpdate.resources
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.GenerateResource.Cache
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.csproj.CoreCompileInputs.cache
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.exe
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.pdb
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOAPaymentsAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOACustomerAnalysis.resources
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmCOAMainMenu.resources
+C:\Users\t00192059\Desktop\SE PROJECT 13\SD_RE_TEAHAN_J\New folder\FoneFixSYS\obj\Debug\FoneFixSYS.frmMainMenu.resources
